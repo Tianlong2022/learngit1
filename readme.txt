@@ -6,3 +6,4 @@ $ git add readme.txt L
 Creating a new branch is quick and simple.
 git add readme.txt 
 add fast merger
+add no-fast merge
