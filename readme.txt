@@ -7,4 +7,5 @@ Creating a new branch is quick and simple.
 git add readme.txt 
 add fast merger
 add no-fast merge
-dev中的bug需要修改
+需要修改bug，但是本项目为完成
+
