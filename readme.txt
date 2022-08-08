@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 $ git add readme.txt L
 Creating a new branch is quick.
+git add readme.txt 
